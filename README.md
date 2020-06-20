@@ -1,3 +1,3 @@
-# laravel-jobeet
-Jobeet with laravel 5.6.
+# Job
+Job with laravel 5.6.
 
